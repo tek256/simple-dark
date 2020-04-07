@@ -14,7 +14,7 @@
 </div>
 <div id="usage">
 <h3>Usage</h3>
-<p>To use the colorscheme simply copy it to your vim colors directory (Usually <code>~/.vim/colors/</code>). Then edit your vimrc to include <pre><code>colorscheme simple-dark</code></pre></p>
+<p>To use the colorscheme simply copy it to your vim colors directory (Usually <code>~/.vim/colors/</code>). Then edit your vimrc to include <pre><code>colorscheme simple-dark</code></pre> or if you want to use the transparent version: <pre><code>colorscheme simple-dark-transparent</code></pre></p>
 </div>
 <div id="license">
 	<h3>License</h3>
