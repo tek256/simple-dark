@@ -1,0 +1,32 @@
+! This lives in ~/.Xresources
+! Set the colors
+*highlightColor: #2E2E2C
+*cursorColor:    #AFB0AB
+*borderColor:    #0A0A0A
+*background:     #0A0A0A
+*foreground:     #B8B9B4
+
+!BLACK
+*color0:  #0A0A0A
+*color8:  #2E2E2C
+!!RED
+*color1:  #939490
+*color9:  #989995
+!!GREEN
+*color2:  #5E5E5C
+*color10: #636361
+!!YELLOW
+*color3:  #B6B8B3
+*color11: #BBBDB8
+!!BLUE
+*color4:  #727370
+*color12: #777875
+!!MAGENTA
+*color5:  #D1D1CB
+*color13: #D6D6D0
+!!CYAN
+*color6:  #636361
+*color14: #696966
+!!WHITE
+*color7:  #AAABA6
+*color15: #AFB0AB
