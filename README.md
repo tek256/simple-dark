@@ -21,4 +21,14 @@ and run `:PlugInstall` to make sure the scheme is downloaded.
 
 otherwise you can just copy the `colors` folder to your vim colors folder (usually `~/.vim/colors/`).
 
+Once you have the scheme just adding either of the variants as colorscheme looks like
+```
+colorscheme simple-dark
+```
+or 
+```
+colorscheme simple-dark-transparent
+```
+
+
 For kitty, xfce4-terminal, or rxvt-unicode (urxvt), copy the contents of the respective files into your own config files. The config files in this repository only set colors, and do not assume any other non-apperance configurations.
