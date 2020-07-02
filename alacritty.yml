@@ -1,0 +1,25 @@
+# Colors (Simple Dark)
+colors:
+   primary:
+     background: '#0a0a0a'
+     foreground: '#B8B9B4'
+
+   normal:
+     black: '#0A0A0A'
+     red: '#939490'
+     green: '#5E6E5C'
+     yellow: '#B6B8B3'
+     blue: '#727370'
+     magenta: '#D1D1CB'
+     cyan: '#636361'
+     white: '#AAABA6'
+
+   bright:
+     black: '#2E2E2C'
+     red: '#989995'
+     green: '#636361'
+     yellow: '#BBBDB8'
+     blue: '#777875'
+     magenta: '#D6D6D0'
+     cyan: '#696966'
+     white: '#AFB0AB'
