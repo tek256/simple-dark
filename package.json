@@ -3,6 +3,13 @@
     "displayName": "simple dark",
     "description": "a simple dark greyscale theme for all",
     "publisher": "tek256",
+    "author": {
+        "name": "tek256"
+    },
+    "galleryBanner": {
+        "color": "#0a0a0a",
+        "theme": "dark"
+    },
     "version": "0.0.2",
     "engines": {
         "vscode": "^1.51.0"
@@ -13,7 +20,7 @@
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/tek256/simple-dark"
+        "url": "https://github.com/tek256/simple-dark.git"
     },
     "keywords": [
         "Dark Theme",
@@ -21,8 +28,10 @@
         "Greyscale",
         "Black and White",
         "Simple Dark",
-        "terminal"
+        "terminal",
+        "Black"
     ],
+    "homepage": "https://github.com/tek256/simple-dark",
     "__metadata": {
         "publisherDisplayName": "tek256"
     },

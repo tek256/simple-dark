@@ -3,7 +3,7 @@
       <b>simple-dark</b><br>
 	  <span font-size="16px">a simple dark grayscale theme for all</span><br>
       <span font-size="12px">Made by <a href="http://tek256.com">Devon</a> with love.</span><br>
-      <span><a href="https://discordapp.com/invite/63GvpMh">Discord</a> | <a href="https://github.com/sponsors/tek256">Sponsor</a></span>
+      <span><a href="https://discordapp.com/invite/63GvpMh">Discord</a> | <a href="https://github.com/sponsors/tek256">Sponsor</a> <a href="https://marketplace.visualstudio.com/items?itemName=tek256.simple-dark">VS Code</a></span>
     </p>
 </div>
 
