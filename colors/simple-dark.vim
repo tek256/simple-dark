@@ -23,7 +23,7 @@ if has("gui_running") || &t_Co == 256
     hi Constant cterm=NONE ctermfg=252 ctermbg=black gui=NONE guifg=#d0d0d0 guibg=#0a0a0a
     hi String cterm=NONE ctermfg=245 ctermbg=black gui=NONE guifg=#8a8a8a guibg=#0a0a0a
     hi Comment cterm=NONE ctermfg=240 ctermbg=black gui=NONE guifg=#585858 guibg=#0a0a0a
-    hi Number cterm=NONE ctermfg=255  ctermbg=black gui=NONE guifg=#ff0000 guibg=#0a0a0a
+    hi Number cterm=NONE ctermfg=255  ctermbg=black gui=NONE guifg=#eeeeee guibg=#0a0a0a
     hi Error cterm=NONE ctermfg=255 ctermbg=DarkGray gui=NONE guifg=#eeeeee guibg=#0a0a0a
     hi ErrorMsg cterm=NONE ctermfg=255 ctermbg=DarkGray gui=NONE guifg=#eeeeee guibg=#0a0a0a
     hi Search cterm=NONE ctermfg=245 ctermbg=Gray gui=NONE guifg=#8a8a8a guibg=#0a0a0a

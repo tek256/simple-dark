@@ -1,12 +1,19 @@
 <div id="header">
     <p align="center">
       <b>simple-dark</b><br>
-	  <span font-size="16px">a simple dark grayscale theme</span><br>
+	  <span font-size="16px">a simple dark grayscale theme for all</span><br>
       <span font-size="12px">Made by <a href="http://tek256.com">Devon</a> with love.</span><br>
       <span><a href="https://discordapp.com/invite/63GvpMh">Discord</a> | <a href="https://github.com/sponsors/tek256">Sponsor</a></span>
     </p>
 </div>
-<img src="screenshot.png" alt="simple-dark-screenshot"/>
+
+### vim
+
+<img src="images/screenshot.png" alt="simple-dark-screenshot"/>
+
+### vscode
+
+<img src="images/screenshot_vscode.png" alt="simple-dark-vscode-screenshot"/>
 
 ### About  
 Simple Dark is a colorscheme aimed at being easy to read and focus with. The goal is to write with as few distractions as possible!

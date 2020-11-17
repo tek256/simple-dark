@@ -1,0 +1,29 @@
+{
+    "name": "simple-dark",
+    "displayName": "simple-dark",
+    "description": "a simple dark theme",
+    "publisher": "tek256",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.51.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/tek256/simple-dark"
+    },
+    "__metadata": {
+        "publisherDisplayName": "tek256"
+    },
+    "contributes": {
+        "themes": [
+            {
+                "label": "simple dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/simple dark-color-theme.json"
+            }
+        ]
+    }
+}
