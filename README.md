@@ -9,11 +9,11 @@
 
 ### vim
 
-<img src="images/screenshot.png" alt="simple-dark-screenshot"/>
+[![simple-dark-screenshot](images/screenshot.png]]
 
 ### vscode
 
-<img src="images/screenshot_vscode.png" alt="simple-dark-vscode-screenshot"/>
+[![simple-dark-vscode-screenshot](images/screenshot_vscode.png]]
 
 ### About  
 Simple Dark is a colorscheme aimed at being easy to read and focus with. The goal is to write with as few distractions as possible!
