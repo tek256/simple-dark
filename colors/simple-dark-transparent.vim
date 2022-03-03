@@ -26,7 +26,7 @@ if has("gui_running") || &t_Co == 256
     hi Number cterm=NONE ctermfg=255  ctermbg=NONE gui=NONE guifg=#ff0000 guibg=NONE
     hi Error cterm=NONE ctermfg=255 ctermbg=NONE gui=NONE guifg=#eeeeee guibg=NONE
     hi ErrorMsg cterm=NONE ctermfg=255 ctermbg=NONE gui=NONE guifg=#eeeeee guibg=NONE
-    hi Search cterm=NONE ctermfg=245 ctermbg=NONE gui=NONE guifg=#8a8a8a guibg=NONE
+    hi Search cterm=reverse ctermfg=255 ctermbg=NONE gui=reverse guifg=#eeeeee guibg=NONE
     hi IncSearch cterm=reverse ctermfg=255 ctermbg=NONE gui=reverse guifg=#eeeeee guibg=NONE
     hi DiffChange cterm=NONE ctermfg=240 ctermbg=NONE gui=NONE guifg=#8a8a8a guibg=NONE
     hi DiffText cterm=bold ctermfg=255 ctermbg=NONE gui=bold guifg=#bcbcbc guibg=NONE
@@ -54,7 +54,7 @@ else
     hi Number cterm=NONE ctermfg=White ctermbg=Black
     hi Error cterm=NONE ctermfg=White ctermbg=Black
     hi ErrorMsg cterm=NONE ctermfg=White ctermbg=Black
-    hi Search cterm=NONE ctermfg=Gray ctermbg=Black
+    hi Search cterm=reverse ctermfg=White ctermbg=Black
     hi IncSearch cterm=reverse ctermfg=White ctermbg=Black
     hi DiffChange cterm=NONE ctermfg=White ctermbg=Black
     hi DiffText cterm=bold ctermfg=Gray ctermbg=White
