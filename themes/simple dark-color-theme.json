@@ -35,7 +35,7 @@
 		"editorGroupHeader.noTabsBackground": "#0a0a0a",
 		"editorGroupHeader.tabsBackground": "#0a0a0a",
 		"editorGroupHeader.tabsBorder": "#0a0a0a",
-		"editorGutter.addedBackground": "#0a0a0a",
+		"editorGutter.addedBackground": "#eeeeee",
 		"editorGutter.background": "#0a0a0a",
 		"editorGutter.deletedBackground": "#d0d0d0",
 		"editorGutter.modifiedBackground": "#d0d0d0",
