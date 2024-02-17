@@ -25,8 +25,8 @@ if has("gui_running") || &t_Co == 256
     hi Comment cterm=NONE ctermfg=240 ctermbg=black gui=NONE guifg=#585858 guibg=#0a0a0a
     hi Number cterm=NONE ctermfg=255  ctermbg=black gui=NONE guifg=#eeeeee guibg=#0a0a0a
     hi Error cterm=NONE ctermfg=255 ctermbg=DarkGray gui=NONE guifg=#eeeeee guibg=#0a0a0a
-    hi ErrorMsg cterm=NONE ctermfg=255 ctermbg=DarkGray gui=NONE guifg=#eeeeee guibg=#0a0a0a
-    hi Search cterm=NONE ctermfg=245 ctermbg=Gray gui=NONE guifg=#8a8a8a guibg=#0a0a0a
+    hi ErrorMsg cterm=NONE ctermfg=240 ctermbg=black gui=NONE guifg=#eeeeee guibg=#0a0a0a
+    hi Search cterm=NONE ctermfg=black ctermbg=Gray gui=NONE guifg=#8a8a8a guibg=#0a0a0a
     hi IncSearch cterm=reverse ctermfg=255 ctermbg=245 gui=reverse guifg=#eeeeee guibg=#0a0a0a
     hi DiffChange cterm=NONE ctermfg=240 ctermbg=255 gui=NONE guifg=#8a8a8a guibg=#0a0a0a
     hi DiffText cterm=bold ctermfg=255 ctermbg=DarkGray gui=bold guifg=#bcbcbc guibg=#0a0a0a
@@ -54,7 +54,7 @@ else
     hi Comment cterm=NONE ctermfg=DarkGray ctermbg=Black
     hi Number cterm=NONE ctermfg=White ctermbg=Black
     hi Error cterm=NONE ctermfg=White ctermbg=Black
-    hi ErrorMsg cterm=NONE ctermfg=White ctermbg=Black
+    hi ErrorMsg cterm=NONE ctermfg=Black ctermbg=White
     hi Search cterm=NONE ctermfg=Gray ctermbg=Black
     hi IncSearch cterm=reverse ctermfg=White ctermbg=Black
     hi DiffChange cterm=NONE ctermfg=White ctermbg=Black
