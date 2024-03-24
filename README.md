@@ -43,4 +43,4 @@ colorscheme simple-dark-transparent
 ```
 
 
-For kitty, xfce4-terminal, rxvt-unicode (urxvt) or Windows Terminal, copy the contents of the respective files into your own config files. The config files in this repository only set colors, and do not assume any other non-apperance configurations.
+For kitty, xfce4-terminal, rxvt-unicode (urxvt), or Windows Terminal, copy the contents of the respective files into your own config files. The config files in this repository only set colors, and do not assume any other non-apperance configurations.
