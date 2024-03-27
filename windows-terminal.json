@@ -1,0 +1,24 @@
+# Mar 24, 24: The file you should paste these colors to exists at: %LOCALAPPDATA%\Packages\Microsoft.WindowsTerminalPreview_8wekyb3d8bbwe\LocalState\settings.json
+{
+	"background": "#0A0A0A",
+	"black": "#0A0A0A",
+	"blue": "#727370",
+	"brightBlack": "#2E2E2C",
+	"brightBlue": "#777875",
+	"brightCyan": "#696966",
+	"brightGreen": "#636361",
+	"brightPurple": "#D6D6D0",
+	"brightRed": "#989995",
+	"brightWhite": "#AFB0AB",
+	"brightYellow": "#BBBDB8",
+	"cursorColor": "#B8B9B4",
+	"cyan": "#636361",
+	"foreground": "#B8B9B4",
+	"green": "#5E5E5C",
+	"name": "simple-dark",
+	"purple": "#D1D1CB",
+	"red": "#939490",
+	"selectionBackground": "#B8B9B4",
+	"white": "#AAABA6",
+	"yellow": "#B6B8B3"
+}
