@@ -46,6 +46,7 @@ if has("gui_running") || &t_Co == 256
     hi VertSplit cterm=NONE ctermfg=Gray ctermbg=black gui=NONE guifg=#0a0a0a guibg=#0a0a0a
     hi TermCursor cterm=reverse ctermfg=NONE ctermbg=NONE gui=reverse guifg=NONE guibg=NONE
     hi ColorColumn  cterm=reverse ctermfg=NONE ctermbg=NONE gui=reverse guifg=NONE guibg=NONE
+    hi debugBreakpoint ctermbg=14 gui=undercurl guisp=Cyan
 else
     hi Normal cterm=NONE ctermfg=Gray ctermbg=Black
     hi Keyword cterm=NONE ctermfg=White ctermbg=Black
@@ -74,6 +75,7 @@ else
     hi Visual cterm=reverse ctermfg=Gray ctermbg=Black
     hi TermCursor cterm=reverse ctermfg=NONE ctermbg=NONE
     hi ColorColumn  cterm=reverse ctermfg=NONE ctermbg=NONE
+    hi debugBreakpoint guifg=#ff0000 guibg=#31353f ctermfg=red ctermbg=NONE
 endif
 highlight! link Boolean Normal
 highlight! link Delimiter Normal
