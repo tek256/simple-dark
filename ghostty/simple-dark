@@ -1,0 +1,27 @@
+# This file lives at: 
+#    $XDG_CONFIG_HOME/ghostty/themes
+#    $PREFIX/share/ghostty/themes
+
+palette = 0=#000000
+palette = 1=#939490
+palette = 2=#5E5E5C
+palette = 3=#B6B8B3
+palette = 4=#727370
+palette = 5=#D1D1CB
+palette = 6=#636361
+palette = 7=#AAABA6
+palette = 8=#2E2E2C
+palette = 9=#989995
+palette = 10=#635361
+palette = 11=#BBBDBB
+palette = 12=#777875
+palette = 13=#D6D6D0
+palette = 14=#696966
+palette = 15=#AFB0AB
+
+background = #000000
+foreground = #B8B9B4
+cursor-color = #B6B8B3
+cursor-text = #696966
+selection-background = #B6B8B3
+selection-foreground = #000000
