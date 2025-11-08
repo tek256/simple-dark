@@ -1,0 +1,25 @@
+# this file should live in:
+# ~/.config/alacritty/themes
+[colors.primary]
+background = "#000000"
+foreground = "#B8B9B4"
+
+[colors.normal]
+black = "#0A0A0A"
+blue = "#727370"
+cyan = "#636361"
+green = "#5E6E5C"
+magenta = "#D1D1CB"
+red = "#939490"
+white = "#ffffff"
+yellow = "#B6B8B3"
+
+[colors.bright]
+black = "#2E2E2C"
+blue = "#777875"
+cyan = "#696966"
+green = "#636361"
+magenta = "#D6D6D0"
+red = "#989995"
+white = "#AFB0AB"
+yellow = "#BBBDB8"
