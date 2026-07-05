@@ -30,7 +30,7 @@ and run `:PlugInstall` to make sure the scheme is downloaded.
 otherwise you can just copy the `colors` folder to your vim colors folder (usually `~/.vim/colors/`).
 
 ```
-git clone https://github.com/tek256/simple-dark/ ~/.vim/colors/simple-dark/
+git clone https://codeberg.org/tek256/simple-dark/ ~/.vim/colors/simple-dark/
 ```
 
 
